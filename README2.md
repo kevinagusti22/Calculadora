@@ -56,3 +56,11 @@ El **JavaScript** de la calculadora realiza las siguientes tareas:
 ## ✅ Conclusión
 Esta calculadora simple es un excelente ejemplo para **aprender HTML, CSS y JavaScript** juntos.  
 Su diseño moderno y su funcionalidad básica permiten a los estudiantes entender conceptos de **interacción, validación y animación en la web** de manera divertida y práctica. 🌟
+
+## 📋 Tareas Pendientes y Referencia
+- Agregar **funciones avanzadas** (por ejemplo: operaciones con decimales complejos o porcentaje).  
+- **Optimizar el código** para que sea más eficiente y fácil de mantener.  
+- Añadir **soporte para dispositivos móviles** 📱.  
+
+### 🖼️ Microprocesador 6502
+<img width="615" height="324" alt="imagen" src="https://github.com/user-attachments/assets/b49aad28-5926-46c3-bfed-e0a870822d31" />
